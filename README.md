@@ -92,10 +92,39 @@ we can use the class named MyClass to create objects
 # The __init__() Function
 
 - All classes have a function called __init__(), which is always executed when the class is being initiated.
-- Use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created:
+- Use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***13/03/2024***
+
+# Data Types
+
+There are three numeric types in Python:
+
+- `int`
+- `float`
+- `complex`
+
+# Int
+
+Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
+
+# Float
+
+Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
+
+# Complex
+
+Complex numbers are written with a "j" as the imaginary part
+
+# Random Number
+
+Python does not have a `random()` function to make a random number, but Python has a built-in module called `random` that can be used to make random numbers
 
 The __str__() Function
 
 - The __str__() function controls what should be returned when the class object is represented as a string.
 - If the __str__() function is not set, the string representation of the object is returned
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
