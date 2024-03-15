@@ -123,6 +123,42 @@ Python does not have a `random()` function to make a random number, but Python
 
 The __str__() Function
 
+________________________________________________________________________________________________________________________________________________________________
+
+
+Apps that have used Python 
+
+- Pinterest
+- Instagram
+- Spotify
+- YouTube
+
+  ### Arithmetic Operators
+
+- The same arithmetic sign we have in math for example we can add and subtract ***(+, - , <> , /(decimal), //(whole),%(remainder),**(exponent))***
+
+Other Notes 
+
+x = 10
+
+**Method 1** 
+
+x = x + 3 ( results is 13 and will store the result) 
+
+**Method 2** 
+
+x =+  3 ( results is 13 which is the same as method 1) This is called ***augmented assignment operator*** 
+
+### **Operator Precedence**
+
+***This determines the order in which the operators are applied, for Exmaple*** 
+
+x= 10+ 3 * 2 
+
+BODMAS
+
+***Answer = 16***
+
 - The __str__() function controls what should be returned when the class object is represented as a string.
 - If the __str__() function is not set, the string representation of the object is returned
 
