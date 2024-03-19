@@ -4,7 +4,7 @@
 
 Patient_Name= "EXL"
 Age=68
-if Patient_Name= "New Patient" :
+if Patient_Name = "New Patient" :
   print("Yes")
 else:
 print("The patient name")
