@@ -1,1 +1,10 @@
+25/03/2024
 
+# Classes and Objects Fundamentals
+
+- Object: In python objects are anything
+- Classes: You use classes to define new types to model real concepts.
+
+To understand the meaning of classes we have to understand the built-in **init**() function.
+
+All classes have a function called **init**(), which is always executed when the class is being initiated.
