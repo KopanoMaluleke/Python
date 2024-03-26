@@ -163,5 +163,11 @@ BODMAS
 - If the __str__() function is not set, the string representation of the object is returned
 
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Classes and Objects Fundamentals
 
-this is today
+- Object: In python objects are anything
+- Classes: You use classes to define new types to model real concepts. To name functions and variables we use the lower case letters where as with classes you use an upper case letters. Class EmailClient:
+
+To understand the meaning of classes we have to understand the built-in **init**() function.
+
+All classes have a function called **init**(), which is always executed when the class is being initiated.
